@@ -6,6 +6,9 @@ mkdir -p $workDir
 
 logFile=$workDir/out.log
 
+sudo mkdir /opt/bashutils
+sudo mkdir /opt/sankhya
+
 #Repositorio Deepin
 sudo add-apt-repository ppa:leaeasy/dde
 
