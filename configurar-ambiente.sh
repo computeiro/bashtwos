@@ -18,9 +18,9 @@ sudo add-apt-repository ppa:leaeasy/dde
 #Meus aplicativos
 arr=(\
 	xdotool	sublime-text 	filezilla 		chromium-browser	\
-	git		spotify-client 	virtualbox-qt 	gnome-gmail			\
-	zssh	libsvn-java		vim-gtk3		xclip				\										\
-	meld	firefox
+	git		gnome-gmail 	virtualbox-qt 	deepin-terminal		\
+	zssh	libsvn-java		vim-gtk3		deepin-scrot		\
+	meld	firefox			xclip								\
 )
 
 
