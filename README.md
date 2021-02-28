@@ -1,4 +1,4 @@
-# Bashtwos
+# BashTwos
 
 Scripts de produtividade
 
@@ -58,6 +58,7 @@ Para exportar, instale o dconf-cli (caso não tenha) e no terminal digite:
 `$ dconf dump /org/cinnamon/desktop/keybindings/ > meus-atalhos-dconf.xml`
 
 Para importar:
+
 `$ dconf load /org/cinnamon/desktop/keybindings/ < meus-atalhos-dconf.xml`
 
 
