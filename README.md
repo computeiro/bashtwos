@@ -1,4 +1,4 @@
-# Bashutwos
+# Bashtwos
 
 Scripts de produtividade
 
