@@ -28,14 +28,18 @@ Você deve verificar o esquema de de atalhos personalizados do seu sistema opera
 
 ![alt Configuração no Linux Mint](https://github.com/computeiro/bashtwos/blob/master/readme-files/window-toogle-conf.png)
 
-- Abra a opção de atalhos (1)
-- Vá em atalhos personalizado (2)
-- Crie um atalho personalizado (3) ou clique em um que você queira editar (4)
-- Dê um nome sugestivo ao seu atalho (5)
-- Insira a path do `window-toogle.sh` `[Título ou trecho da Janela]` `[comando caso não econtre a janela]`
-  Quando os argumentos tiverm espaço coloque-os entre `"aspas duplas"`
-  Desta maneira o window-toogle.sh tentará encontrar a janela pelo título ou trecho informado, se encontrar colocará a janela em primeiro plano, senão irá executar o comando para inicializar a aplicação.
-  Lembre-se, caso encontre o apicativo e o mesmo já esteja em primeiro plano ele será minimizado, mas apertando o atalho novamente ele será colocado em primeiro plano.
+- No Linux Mint, abra a opção de "Teclado", aba "Atalhos"  \[1\]
+- Vá em atalhos personalizado \[2\]
+- Crie um atalho personalizado (4) ou clique em um que você queira editar \[3\]
+- Dê um nome sugestivo ao seu atalho \[5\]
+- Insira a path \[6\] `window-toogle.sh` `[Título ou trecho da Janela]` `[comando caso não econtre a janela]`
+  - Quando os argumentos tiverm espaço coloque-os entre `"aspas duplas"`
+  - Desta maneira o window-toogle.sh tentará encontrar a janela pelo título ou trecho informado, se encontrar colocará a janela em primeiro plano, senão irá executar o comando para inicializar a aplicação.
+  - Lembre-se, caso encontre o apicativo e o mesmo já esteja em primeiro plano ele será minimizado, mas apertando o atalho novamente ele será colocado em primeiro plano.
+- O no botão \[7\] "Atualizar" (modo edição) ou "Salvar" (criando um novo)
+- Defina o atalho personalizado \[8\]
+  - No Linux Mint você recebe um alerta em caso de conflito de atalhos
+  - Recomendo que utilize atalhos començando com `Super` (janelinha do Windows)
 
 
 ## launch-slack.sh
