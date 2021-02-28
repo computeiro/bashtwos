@@ -1,6 +1,7 @@
 # Bashutwos
 
-Scripts de produtividade 
+Scripts de produtividade
+O nome do projeto é um trocadilho de tools (ferramentas) com o acrônimo do meu nome completo (WOS)
 
 
 ## Script: window-toogle.sh
